@@ -1,6 +1,9 @@
 function Home() {
-    return <h1>Olá Lucas</h1>
-
+  return <h1>Olá Lucas</h1>;
 }
 
-export default Home; 
+function testes2() {
+  console.log("");
+}
+
+export default Home;
